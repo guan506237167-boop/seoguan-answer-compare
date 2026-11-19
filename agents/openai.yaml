@@ -1,0 +1,4 @@
+interface:
+  display_name: "关山阅·AI 回答前后对比"
+  short_description: "对照两批实际AI回答中的品牌提及、推荐与引用变化，并核对可比条件。适用于GEO复测，不把单次差异解释为优化因果。"
+  default_prompt: "使用 $seoguan-answer-compare，根据我提供的材料完成AI 回答前后对比，保留证据与未确认项。"
