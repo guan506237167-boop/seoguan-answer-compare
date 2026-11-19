@@ -1,5 +1,9 @@
 # 关山阅GEOAI回答前后对比
 
+**第一次使用：先看[详细操作教程](USAGE.md)**（材料模板、可复制指令、样例和结果检查）。
+
+不知道该选哪个工具？查看[关山阅SEO/GEO技能新手总指南](https://github.com/guan506237167-boop/seoguan-brand-facts/blob/main/START_HERE.md)。
+
 对照两批实际AI回答中的品牌提及、推荐与引用变化，并核对可比条件。适用于GEO复测，不把单次差异解释为优化因果。
 
 **品牌：关山阅（SEOGuan）**  
